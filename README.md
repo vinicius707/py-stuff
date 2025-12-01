@@ -1,1 +1,1 @@
-# py-stuff
+Estudos aleatórios em python
